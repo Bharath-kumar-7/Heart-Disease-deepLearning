@@ -23,7 +23,7 @@ The cleaned ECG signals are then classified using a **CNN-LSTM model**, which le
 - Classify ECG heartbeats into multiple disease categories  
 - Understand **training, validation, and test accuracy**  
 - Build an **industry-aligned machine learning pipeline**
-
+  
 ---
 
 ## 📂 Dataset Information
